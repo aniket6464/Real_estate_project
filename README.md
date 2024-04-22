@@ -24,9 +24,6 @@ Simplifies the login process and enhances user convenience and security.
 ## • home page 
 ![Screenshot 2024-04-21 112819](https://github.com/aniket6464/Real_estate_project/assets/100822321/8735a764-4066-46e1-9cfd-747f90af2c30)
 
-## • login page
-![Screenshot 2024-04-21 113014](https://github.com/aniket6464/Real_estate_project/assets/100822321/d92a4bde-19ea-48a8-9ff3-fa56525526ad)
-
 ## • search and sorting functionality
 ![Screenshot 2024-04-21 112937](https://github.com/aniket6464/Real_estate_project/assets/100822321/b3552e75-df4f-44a9-b6a2-f6f035fd978e)
 
@@ -35,9 +32,6 @@ Simplifies the login process and enhances user convenience and security.
 
 ## • profile page
 ![Screenshot 2024-04-21 113549](https://github.com/aniket6464/Real_estate_project/assets/100822321/48ce0c54-42e9-448f-8bce-ffd71c188512)
-
-## • create listing
-![Screenshot 2024-04-21 113135](https://github.com/aniket6464/Real_estate_project/assets/100822321/82d8b743-6e9c-4438-9e2c-2f8e018eef8a)
 
 ## • update listing
 ![Screenshot 2024-04-21 113609](https://github.com/aniket6464/Real_estate_project/assets/100822321/96f56491-72fa-4a5d-8e8e-e49b05744174)
