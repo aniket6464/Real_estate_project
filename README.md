@@ -1,4 +1,5 @@
 ### `Real Estate Project`
+The Real Estate Listing Platform is a comprehensive online marketplace designed to facilitate the buying, selling, and renting of properties. It serves as a centralized hub where users can explore a wide range of properties, create listings for their own properties, and connect with potential buyers or renters. With its intuitive interface and powerful features, the platform aims to enhance user experience.
 
 ### `Key Features`
 
@@ -21,25 +22,25 @@ Simplifies the login process and enhances user convenience and security.
 ### `Snapshots`
 
 ## • home page 
-![image](https://github.com/omkar17-abd/Expense_Tracker/assets/90829665/3c4b933b-bc32-4a0f-866d-414083374803)
+![Screenshot 2024-04-21 112819](https://github.com/aniket6464/Real_estate_project/assets/100822321/8735a764-4066-46e1-9cfd-747f90af2c30)
 
 ## • login page
-![image](https://github.com/omkar17-abd/Expense_Tracker/assets/90829665/cea3b65e-3020-4adf-9955-c732ddba1c91)
+![Screenshot 2024-04-21 113014](https://github.com/aniket6464/Real_estate_project/assets/100822321/d92a4bde-19ea-48a8-9ff3-fa56525526ad)
 
 ## • search and sorting functionality
-![image](https://github.com/omkar17-abd/Expense_Tracker/assets/90829665/c9934ccf-4eab-441c-a7b7-2acfb172c185)
+![Screenshot 2024-04-21 112937](https://github.com/aniket6464/Real_estate_project/assets/100822321/b3552e75-df4f-44a9-b6a2-f6f035fd978e)
 
 ## • property page
-![image](https://github.com/omkar17-abd/Expense_Tracker/assets/90829665/d5ad6fe0-6fd1-449e-ac45-130e39d7bed3)
+![Screenshot 2024-04-21 113316](https://github.com/aniket6464/Real_estate_project/assets/100822321/5aba7caf-ecac-4220-ad5a-2dbce1f143ac)
 
 ## • profile page
-![image](https://github.com/omkar17-abd/Expense_Tracker/assets/90829665/d5ad6fe0-6fd1-449e-ac45-130e39d7bed3)
+![Screenshot 2024-04-21 113549](https://github.com/aniket6464/Real_estate_project/assets/100822321/48ce0c54-42e9-448f-8bce-ffd71c188512)
 
 ## • create listing
-![image](https://github.com/omkar17-abd/Expense_Tracker/assets/90829665/d5ad6fe0-6fd1-449e-ac45-130e39d7bed3)
+![Screenshot 2024-04-21 113135](https://github.com/aniket6464/Real_estate_project/assets/100822321/82d8b743-6e9c-4438-9e2c-2f8e018eef8a)
 
 ## • update listing
-![image](https://github.com/omkar17-abd/Expense_Tracker/assets/90829665/d5ad6fe0-6fd1-449e-ac45-130e39d7bed3)
+![Screenshot 2024-04-21 113609](https://github.com/aniket6464/Real_estate_project/assets/100822321/96f56491-72fa-4a5d-8e8e-e49b05744174)
 
 ## Technologies Used
 
